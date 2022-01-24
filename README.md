@@ -14,9 +14,10 @@ And to allocate funding for one of the following:
 A final report on the project can be accessed here: [Census Project-2021.pdf](https://github.com/Onikenny/Census-Project/files/7924855/Census.Project-2021.pdf)
 
 
-###Data- raw data of a UK town based on the 1991 Cencus data.
-###Packages used: 
-              >Python.3.10 
+### Data- raw data of a UK town based on the 1991 Cencus data.
+### Packages used: 
+
+              >>Python.3.10 
               Pandas Python Data Analysis Library. V.1.3.4 for data cleaning and pre-processing. Also, to generate Statistical profiling of data.
               Sklearn for predictive analysis
               CatBoostClassifier for predictive analysis. CatBoostClassifier works efficiently for categorical data as in this project. It features Inbuilt encoding of variables                 and management of overfitting.
