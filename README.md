@@ -2,13 +2,21 @@
 This project aims to generate and analyze statistical data to make decisions about infrastructural  development and allocate investment funding.
 
 Specifics include allocating use for a plot of land to one of the following:
+
 • Housing - High-density/ Low-density
+
 • Transportation - Train Station.
+
 • Religious building
+
 • Emergency Medical building
+
 And to allocate funding for one of the following:
+
 • Employment and Training
+
 • Old age care
+
 • Primary and secondary education - School funding
 
 A final report on the project can be accessed here: [Census Project-2021.pdf](https://github.com/Onikenny/Census-Project/files/7924855/Census.Project-2021.pdf)
